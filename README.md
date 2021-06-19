@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @colinjbarr
-- 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I have an interested in data & analytics. I also have interests in arduino & raspberry pi. 
+- 🌱 I’m currently learning Azure. 
 - 📫 How to reach me: ColinBarr25@gmail.com
 
 <!---
